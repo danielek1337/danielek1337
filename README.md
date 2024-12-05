@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**danielek1337/danielek1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm Daniel, frontend developer, part time freelancer. My main interest is Web Developement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My tech stack:
+
+![HTML5](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-000?&logo=TailwindCSS)
+![SCSS](https://img.shields.io/badge/-sass-000?&logo=sass)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
