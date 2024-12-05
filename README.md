@@ -15,7 +15,7 @@
 ![SCSS](https://img.shields.io/badge/-sass-000?&logo=sass)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![AWS](https://img.shields.io/badge/AWS-000?style=flat&logo=amazonwebservices&logoColor=white)
 
 ### Portfolio sites:
 
