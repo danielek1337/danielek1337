@@ -1,9 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
 
-# I'm Daniel, frontend developer, part time freelancer. My main interest is Web Developement.
+## I'm Daniel, frontend developer, part time freelancer. 
+### My main interest is Web Developement.
 
-# My tech stack:
+### My tech stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -15,3 +16,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+
+### Portfolio sites:
+
+[Generation Z Agency](https://generationzagency.com/)
