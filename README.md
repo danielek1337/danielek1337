@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-## I'm Daniel, frontend developer, part time freelancer. My main interest is Web Developement.
+# I'm Daniel, frontend developer, part time freelancer. My main interest is Web Developement.
 
-## My tech stack:
+# My tech stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
